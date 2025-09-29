@@ -59,11 +59,11 @@ console.log(instructor)
 
 // The below is JSON (object without name)
 
-{
-  "name":"Anmol Kumar Yadav",
-  "coursename":"js in hindi",
-  "price":"free"
-}
+// {
+//   "name":"Anmol Kumar Yadav",
+//   "coursename":"js in hindi",
+//   "price":"free"
+// }
 
 [
   {},
